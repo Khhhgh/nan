@@ -1,6 +1,5 @@
 #مطور البوت @MR_MIGHO
 from config import *
-from doal import *
 from zkharf import *
 
 
