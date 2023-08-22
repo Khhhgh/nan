@@ -2,7 +2,6 @@
 from config import *
 import requests
 from Adminbtn import * 
-from doal import * 
 from member import *
 from bio import *
 
